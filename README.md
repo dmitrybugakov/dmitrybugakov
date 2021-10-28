@@ -2,9 +2,4 @@
 
 - 🔭 I’m currently working on @deutschebank
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=dmitrybugakov&show_icons=true&include_all_commits=true)" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrybugakov&layout=compact" />
-</a>
+![Github stats](https://github-readme-stats.vercel.app/api?username=dmitrybugakov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
